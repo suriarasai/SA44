@@ -1,0 +1,87 @@
+BODY, TD, TH {
+	font-family : Verdana, Arial, sans-serif ;
+	font-size : 9pt;
+}
+
+A {
+	text-decoration: underline;
+	color: #6600CC;
+}
+
+A:Hover {
+	text-decoration: underline;
+	color: #CC0066;
+}
+
+h1	{
+	color : #660000;
+	font-size : 20pt;
+}
+
+h2	{
+	color : #003366;
+	font-weight : lighter;
+	font-size : 18pt;
+}
+
+h3	{
+	color : #000066;
+	font-size : 14pt;
+	font-weight : lighter;
+}
+
+button {
+	border : thin;
+	border-style : none none none none;
+	background : transparent;
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+	white-space : normal;
+	width : auto;
+}
+
+frame	{
+	margin : 0px 0px 0px 0px;
+	border : none;
+	border-width : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+}
+
+table.framed	{
+	border : thin groove Maroon;
+}
+
+
+.applicationTitle {
+	background : #660000;
+	color : white;
+	font-size : 16pt;
+}
+
+.pageTitle {
+	color : #003366;
+	font-weight : lighter;
+	font-size : 16pt;
+}
+
+.userTitle {
+	color : #000066;
+	font-size : 12pt;
+	font-weight : lighter;
+}
+
+.listSectionHeading {
+	color : #000066;
+	font-size : 11pt;
+	background : #EEEEFF;
+        text-align : left;
+}
+
+.listHeading {
+}
+
+.listRecord {
+}
+
+.even { background-color: #EFFBEF; }
+.odd { background-color: white; }
